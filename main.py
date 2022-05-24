@@ -30,6 +30,9 @@ MAGENTA = (255, 0, 255)
 R_MAGENTA = (192, 0, 192)
 
 
+# Some colors have badly chosen letters reprensenting them
+# This was a low priority since it was meant for personal use,
+# that said, I'd happily take any suggestions on how to improve this
 COLORS = {
     "r": RED,
     "R": D_RED,
